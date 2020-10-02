@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ >🔭 I’m currently commited to [#100DaysOfCode](https://twitter.com/dlppdl00/status/1303897091802935296) Follow my journey
+## Here are my stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark" alt="Github Overall Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
