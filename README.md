@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark&card_width=445px" alt="Github Overall Stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark&card_width=445px" alt="Github Language Stats">
+![](https://komarev.com/ghpvc/?username=dlppdl)
