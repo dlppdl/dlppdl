@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  >🔭 I’m currently commited to [#100DaysOfCode](https://twitter.com/dlppdl00/status/1303897091802935296) Follow my journey
-## Here are my stats
+## Here are my GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark&card_width=445px" alt="Github Overall Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark&card_width=600px" alt="Github Overall Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark&card_width=445px" alt="Github Language Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark&card_width=600px" alt="Github Language Stats">
 
-<a>
-    <img src="https://komarev.com/ghpvc/?username=dlppdl">
-</a>
