@@ -14,11 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- >🔭 I’m currently commited to noone🤔. Hit me up😄
+
+> 🔭 I’m currently commited to noone🤔. Hit me up😄
+
 ## Here are my GitHub stats
 
-<img width="360px" src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark" alt="Dilip's github stats" />
-<img width="360px" src="http://github-readme-streak-stats.herokuapp.com?user=dlppdl&theme=vision-friendly-dark&hide_border=true" alt="Dilip's Github Streak Stats" />
+<p style="min-width:360px;width:48%">
+<img src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark" alt="Dilip's github stats" />
+</p>
+<p style="min-width:360px;width:48%">
+<img width="360px" src="https://github-readme-streak-stats.herokuapp.com?user=dlppdl&theme=vision-friendly-dark&hide_border=true" alt="Dilip's Github Streak Stats" />
+</p>
 
 <img width="360px" src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
-
