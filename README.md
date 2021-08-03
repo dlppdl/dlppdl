@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  >🔭 I’m currently commited to noone🤔. Hit me up😄
 ## Here are my GitHub stats
 
-<img width="100%" src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api?username=dlppdl&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Dilip's github stats" />
+<img width="100%" src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark" alt="Dilip's github stats" />
 <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=dlppdl&theme=vision-friendly-dark&hide_border=true" alt="Dilip's Github Streak Stats" />
 
 <img width="100%" src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
