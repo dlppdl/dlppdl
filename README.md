@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## Here are my GitHub stats
 
-<p style="min-width:360px;width:48%">
+<p style="min-width:320px;width:48%">
 <img src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark" alt="Dilip's github stats" />
 </p>
-<p style="min-width:360px;width:48%">
-<img width="360px" src="https://github-readme-streak-stats.herokuapp.com?user=dlppdl&theme=vision-friendly-dark&hide_border=true" alt="Dilip's Github Streak Stats" />
+<p style="min-width:320px;width:48%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dlppdl&theme=vision-friendly-dark&hide_border=true" alt="Dilip's Github Streak Stats" />
 </p>
 
-<img width="360px" src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
+<img width="320px" src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
