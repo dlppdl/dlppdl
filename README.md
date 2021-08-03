@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=dlppdl&theme=vision-friendly-dark&hide_border=true" alt="Dilip's Github Streak Stats" />
 </p>
 <p style="min-width:320px;width:50%">
-<img width="320px" src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
+<img src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
 </p>
