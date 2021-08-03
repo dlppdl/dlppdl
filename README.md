@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api?username=dlppdl&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Dilip's github stats" />
 
-<img src="https://github-readme-stats-dlppdl.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
+<img src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api/top-langs/?username=dlppdl&layout=compact&theme=vision-friendly-dark" alt="Github Language Stats">
 
