@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  >🔭 I’m currently commited to noone🤔. Hit me up😄
 ## Here are my GitHub stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dlppdl/github-readme-stats">
 <img src="https://github-readme-stats.dlppdl.vercel.app/api?username=dlppdl&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Dilip's github stats" />
 </a>
 
