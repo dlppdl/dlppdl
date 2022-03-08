@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Here are my GitHub stats
 
 <p style="min-width:320px;width:50%">
-<img src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark" alt="Dilip's github stats" />
+<img src="https://github-readme-stats-rbsfoqutz-dlppdl.vercel.app/api?username=dlppdl&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Dilip's github stats" />
 </p>
 <p style="min-width:320px;width:50%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=dlppdl&theme=vision-friendly-dark&hide_border=true" alt="Dilip's Github Streak Stats" />
