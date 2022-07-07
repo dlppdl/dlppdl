@@ -45,6 +45,3 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dlppdl&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
----
-![](https://visitcount.itsvg.in/api?id=dlppdl&icon=5&color=1)](https://visitcount.itsvg.in)
