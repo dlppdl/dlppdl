@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 -->
 # 💫 About Me:
- 🔭 I’m currently commited to noone🤔. Hit me up😄
+ 🔭 Trying to save time of others by spending mine.
 
 
 ## 🌐 Socials:
