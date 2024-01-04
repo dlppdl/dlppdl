@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-> 🔭 I’m currently commited to noone🤔. Hit me up😄
+> 🔭 Trying to save time of others by spending mine.
 
 ## Here are my GitHub stats
 
